@@ -1,29 +1,29 @@
 
 
   @font-face {
-    src: url('C:\Users\Acer\Documents\Бали\fonts\PT Serif\PTSerifCaption-Regular.woff') format('woff');
+    src: url('github.com/WebHeroSchool/ayagozbali/blob/new/fonts/PT%20Serif/PTSerifCaption-Regular.woff') format('woff');
 
     font-family: 'PT Serif';
-    font-weight: 700;
+    font-weight: bold;
     font-style: normal;
   }
 
-  @font-face: {
-    src: url('C:\Users\Acer\Documents\Бали\fonts\Museo Sans\MuseoSansCyrl.woff') format('woff');
+  @font-face {
+    src: url('github.com/WebHeroSchool/ayagozbali/blob/new/fonts/Museo%20Sans/MuseoSansCyrl.woff') format('woff');
 
     font-family: 'Museo';
-    font-weight: 400;
+    font-weight: regular;
     font-style: normal;
   }
 
     .title {
     font-family:'PT serif', serif;
-    font-weight: 700;
+    font-weight: bold;
     font-style: normal;
     }
 
     .navigation, .text, .btn {
       font-family: 'Museo', sans-serif;
-      font-weight: 400;
+      font-weight: regular;
       font-style: normal;
     }
