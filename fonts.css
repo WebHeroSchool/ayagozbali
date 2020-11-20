@@ -1,15 +1,15 @@
 
 
   @font-face {
-    src: url('./fonts/PT%20Serif/PTSerifCaption-Regular.woff') format('woff');
+    src: url('./fonts/PT_Serif/PTSerifCaption-Regular.woff') format('woff');
 
     font-family: 'PT Serif';
     font-weight: bold;
     font-style: normal;
   }
 
-  @font-face {
-    src: url('./fonts/Museo%20Sans/MuseoSansCyrl.woff') format('woff');
+  @font-face: {
+    src: url('./fonts/Museo_Sans/MuseoSansCyrl.woff') format('woff');
 
     font-family: 'Museo';
     font-weight: regular;
