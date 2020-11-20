@@ -1,7 +1,11 @@
 
 
   @font-face {
+<<<<<<< HEAD
     src: url('./fonts/PT_Serif/PTSerifCaption-Regular.woff') format('woff');
+=======
+    src: url('C:\Users\Acer\Documents\Бали\fonts\PT Serif\PTSerifCaption-Regular.woff') format('woff');
+>>>>>>> new
 
     font-family: 'PT Serif';
     font-weight: bold;
@@ -9,7 +13,11 @@
   }
 
   @font-face: {
+<<<<<<< HEAD
     src: url('./fonts/Museo_Sans/MuseoSansCyrl.woff') format('woff');
+=======
+    src: url('C:\Users\Acer\Documents\Бали\fonts\Museo Sans\MuseoSansCyrl.woff') format('woff');
+>>>>>>> new
 
     font-family: 'Museo';
     font-weight: regular;
