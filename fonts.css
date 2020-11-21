@@ -1,0 +1,31 @@
+
+
+  @font-face {
+
+    src: url('./fonts/PT_Serif/PTSerifCaption-Regular.woff') format('woff');
+
+    font-family: 'PT Serif';
+    font-weight: bold;
+    font-style: normal;
+  }
+
+  @font-face: {
+
+    src: url('./fonts/Museo_Sans/MuseoSansCyrl.woff') format('woff');
+
+    font-family: 'Museo';
+    font-weight: regular;
+    font-style: normal;
+  }
+
+    .title {
+    font-family:'PT serif', serif;
+    font-weight: bold;
+    font-style: normal;
+    }
+
+    .navigation, .text, .btn {
+      font-family: 'Museo', sans-serif;
+      font-weight: regular;
+      font-style: normal;
+    }
