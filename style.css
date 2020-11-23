@@ -1,6 +1,9 @@
 
 
-  .header
+  .wrap
   {
-    background: url('C:\Users\Acer\Documents\Бали\images\intro.jpeg');
+    max-width: 1920px;
+    min-width: 375px;
+    margin: 0 auto;
+    background: url('‪./C:\Users\Acer\Documents\Бали\images\intro.jpg') no repeat;
   }
