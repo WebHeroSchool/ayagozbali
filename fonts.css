@@ -18,7 +18,7 @@
     font-style: normal;
   }
 
-    .title {
+    .title, .caption {
     font-family:'PT serif', serif;
     font-weight: bold;
     font-style: normal;
