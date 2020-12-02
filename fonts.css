@@ -18,13 +18,13 @@
     font-style: normal;
   }
 
-    .title {
+    .title, .caption {
     font-family:'PT serif', serif;
     font-weight: bold;
     font-style: normal;
     }
 
-    .navigation, .text, .btn {
+    .navigation, .text, .btn{
       font-family: 'Museo', sans-serif;
       font-weight: regular;
       font-style: normal;
